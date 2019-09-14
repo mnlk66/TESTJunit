@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="394ed463-5abb-4314-b78f-ec23d760b61c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="394ed463-5abb-4314-b78f-ec23d760b61c" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TESTJunit/META-INF/TESTJunit.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TESTJunit/Main/CalculatriceIncrementale.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TESTJunit/Main/CalculatriceIncrementale.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TESTJunit/Test/CalculatriceIncrementaleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TESTJunit/Test/CalculatriceIncrementaleTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -220,8 +215,20 @@
       <option name="project" value="LOCAL" />
       <updated>1568498876926</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Default Changelist">
+      <created>1568503139838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568503139838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CalculatriceIncrementaleTest - 2019.09.14 at 19h 16m 42s.xml">
+      <configuration name="CalculatriceIncrementaleTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
@@ -284,7 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Compatibilité avec jUnit4&#10;objet liste est désormais public afin d'être accessible depuis d'autres classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Compatibilité avec jUnit4&#10;objet liste est désormais public afin d'être accessible depuis d'autres classes" />
+    <MESSAGE value="Default Changelist" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest__1_.ic" NAME="CalculatriceIncrementaleTest (1) Coverage Results" MODIFIED="1568402828064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
