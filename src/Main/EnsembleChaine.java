@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class EnsembleChaine {
 
-    ArrayList< String > liste;
+    public ArrayList< String > liste;
     public EnsembleChaine(){
         liste = new ArrayList<String>() ;
     }
