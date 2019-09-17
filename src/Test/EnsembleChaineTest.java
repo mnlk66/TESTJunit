@@ -34,6 +34,13 @@ public class EnsembleChaineTest {
 
     }
 
+    @Test
+    public void testEquals(){
+        EnsembleChaine ex = new EnsembleChaine();
+    }
+
+
+    @Test
     public void testUnion(){
         EnsembleChaine e2 = new EnsembleChaine();
         String tab1[] = {"a,z,e"};
@@ -43,6 +50,7 @@ public class EnsembleChaineTest {
         assertTrue("si la liste possède les elements suivants",e2.liste.contains(("a,z,f")));
     }
 
+    @Test
     public void testIntersection(){
         EnsembleChaine e3 = new EnsembleChaine();
         String tab2[] = {"a,t,y"};
