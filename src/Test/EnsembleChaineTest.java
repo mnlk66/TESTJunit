@@ -34,14 +34,16 @@ public class EnsembleChaineTest {
 
     }
 
-    public boolean testUnion(){
+    public void testUnion(){
         EnsembleChaine e2 = new EnsembleChaine();
         String tab1[] = {"a,z,e"};
+        String tab2[] = {"i,k,n"};
+
         e2.ajouter(tab1);
         assertTrue("si la liste possède les elements suivants",e2.liste.contains(("a,z,f")));
     }
 
-    public void EnsembleChaine testIntersection(){
+    public void testIntersection(){
         EnsembleChaine e3 = new EnsembleChaine();
         String tab2[] = {"a,t,y"};
         e3.ajouter(tab2);
