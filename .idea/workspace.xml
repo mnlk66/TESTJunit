@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="394ed463-5abb-4314-b78f-ec23d760b61c" name="Default Changelist" comment="Default Changelist">
+    <list default="true" id="394ed463-5abb-4314-b78f-ec23d760b61c" name="Default Changelist" comment="vfinal">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,29 +19,33 @@
     <option name="myElementSize" value="233" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="ErrorTreeViewConfiguration">
-    <option name="autoscrollToSource" value="true" />
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="EnsembleChaineTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/CalculatriceIncrementale.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="51" column="91" selection-start-line="51" selection-start-column="91" selection-end-line="51" selection-end-column="91" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnsembleChaine.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="150">
+              <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Test/CalculatriceIncrementaleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -50,7 +55,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -61,17 +65,22 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Test/EnsembleChaineTest.java" />
+        <option value="$PROJECT_DIR$/src/CalculatriceIncrementaleTest.groovy" />
+        <option value="$PROJECT_DIR$/src/CalculatriceIncrementale.java" />
+        <option value="$PROJECT_DIR$/src/TEST/CalculatriceIncrementaleTest.java" />
+        <option value="$PROJECT_DIR$/src/CalculatriceIncrementaleTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/CalculatriceIncrementale.java" />
+        <option value="$PROJECT_DIR$/src/Test/CalculatriceIncrementaleTest.java" />
+        <option value="$PROJECT_DIR$/src/Main/EnsembleChaine.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="952" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1096" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="192" />
+    <option name="y" value="-18" />
+    <option name="width" value="978" />
+    <option name="height" value="1088" />
   </component>
-  <component name="ProjectId" id="1QqWMQABJuArUalXHwgaTXsJKCa" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -107,7 +116,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -117,25 +125,19 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="Main.CalculatriceIncrementale" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
-      <recent name="Test" />
       <recent name="" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
-      <recent name="Main.CalculatriceIncrementale" />
       <recent name="groovy.util.GroovyTestCase" />
     </key>
   </component>
@@ -164,20 +166,14 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
       <option name="MAIN_CLASS_NAME" value="Test.CalculatriceIncrementaleTest" />
       <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="CalculatriceIncrementaleTest.testSoustraire (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TESTJunit" />
@@ -187,20 +183,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="Test" />
       <option name="MAIN_CLASS_NAME" value="Test.CalculatriceIncrementaleTest" />
       <option name="METHOD_NAME" value="testSoustraire" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <list>
       <item itemvalue="JUnit.CalculatriceIncrementaleTest.testSoustraire (1)" />
@@ -223,134 +212,118 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568299598084</updated>
-      <workItem from="1568498564127" duration="3094000" />
     </task>
-    <task id="LOCAL-00001" summary="Compatibilité avec jUnit4&#10;objet liste est désormais public afin d'être accessible depuis d'autres classes">
-      <created>1568498876926</created>
+    <task id="LOCAL-00001" summary="vfinal">
+      <created>1568742097288</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1568498876926</updated>
+      <updated>1568742097289</updated>
     </task>
-    <task id="LOCAL-00002" summary="Default Changelist">
-      <created>1568503139838</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1568503139838</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Default Changelist">
-      <created>1568503417819</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1568503417819</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Default Changelist">
-      <created>1568556970421</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1568556970421</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatriceIncrementaleTest - 2019.09.14 at 19h 16m 42s.xml">
+    <history-entry file="CalculatriceIncrementaleTest_testMultiplier - 2019.09.13 at 14h 03m 02s.xml">
+      <configuration name="CalculatriceIncrementaleTest.testMultiplier" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_testMultiplier - 2019.09.13 at 14h 54m 25s.xml">
+      <configuration name="CalculatriceIncrementaleTest.testMultiplier" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_(1) - 2019.09.13 at 14h 55m 49s.xml">
+      <configuration name="CalculatriceIncrementaleTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_testSoustraire_(1) - 2019.09.13 at 15h 04m 53s.xml">
+      <configuration name="CalculatriceIncrementaleTest.testSoustraire (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_testSoustraire_(1) - 2019.09.13 at 15h 05m 32s.xml">
+      <configuration name="CalculatriceIncrementaleTest.testSoustraire (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_testSoustraire_(1) - 2019.09.13 at 15h 23m 50s.xml">
+      <configuration name="CalculatriceIncrementaleTest.testSoustraire (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_(1) - 2019.09.13 at 15h 25m 09s.xml">
+      <configuration name="CalculatriceIncrementaleTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_(1) - 2019.09.13 at 15h 25m 44s.xml">
+      <configuration name="CalculatriceIncrementaleTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest_(1) - 2019.09.13 at 15h 27m 10s.xml">
+      <configuration name="CalculatriceIncrementaleTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatriceIncrementaleTest - 2019.09.13 at 15h 35m 33s.xml">
       <configuration name="CalculatriceIncrementaleTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="952" y="-8" width="976" height="1096" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.31906217" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50104386" side_tool="true" weight="0.4557613" />
-      <window_info anchor="right" id="Maven Projects" order="0" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49895614" visible="true" weight="0.45158002" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28541666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21610738" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Compatibilité avec jUnit4&#10;objet liste est désormais public afin d'être accessible depuis d'autres classes" />
-    <MESSAGE value="Default Changelist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Default Changelist" />
+    <MESSAGE value="vfinal" />
+    <option name="LAST_COMMIT_MESSAGE" value="vfinal" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest__1_.ic" NAME="CalculatriceIncrementaleTest (1) Coverage Results" MODIFIED="1568402828064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest_testSoustraire__1_.ic" NAME="CalculatriceIncrementaleTest.testSoustraire (1) Coverage Results" MODIFIED="1568402627092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest_testMultiplier.ic" NAME="CalculatriceIncrementaleTest.testMultiplier Coverage Results" MODIFIED="1568400861838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest.ic" NAME="CalculatriceIncrementaleTest Coverage Results" MODIFIED="1568403331850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.*</FILTER>
       <FILTER>Main.CalculatriceIncrementale</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest_testMultiplier.ic" NAME="CalculatriceIncrementaleTest.testMultiplier Coverage Results" MODIFIED="1568400861838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest_testSoustraire__1_.ic" NAME="CalculatriceIncrementaleTest.testSoustraire (1) Coverage Results" MODIFIED="1568402627092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/TESTJunit$CalculatriceIncrementaleTest__1_.ic" NAME="CalculatriceIncrementaleTest (1) Coverage Results" MODIFIED="1568402828064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Test.*</FILTER>
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+    <entry file="file://$PROJECT_DIR$/src/CalculatriceIncrementaleTest.groovy" />
+    <entry file="file://$PROJECT_DIR$/src/Test/CalculatriceIncrementaleTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="51" column="91" selection-start-line="51" selection-start-column="91" selection-end-line="51" selection-end-column="91" />
+        <state relative-caret-position="238">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/CalculatriceIncrementale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="150">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -371,7 +344,6 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -394,7 +366,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -406,20 +377,6 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>TESTJunit</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
