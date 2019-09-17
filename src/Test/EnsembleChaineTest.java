@@ -53,7 +53,7 @@ public class EnsembleChaineTest {
     @Test
     public void testIntersection(){
         EnsembleChaine e3 = new EnsembleChaine();
-        String tab2[] = {"a,t,y"};
+        String tab2[] = {"a,b,c","c,d,e"};
         e3.ajouter(tab2);
         assertTrue("vérifer l'intersection", e3.liste.contains("z,f,g"));
 
