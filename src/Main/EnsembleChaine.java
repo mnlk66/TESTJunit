@@ -28,17 +28,17 @@ public class EnsembleChaine {
     public boolean equals(EnsembleChaine e) {
 
         boolean resultat = false;
-
+        int n=0;
         while (!resultat) {
-            for (String n : e.liste) {
 
-                if (this.liste.contains(n))
+
+                if (this.liste.contains(e.liste.get(n)))
                     resultat = true;
 
                 else resultat = false;
 
-            }
 
+                n++;
         }
         return resultat;
     }
