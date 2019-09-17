@@ -25,12 +25,16 @@ public class EnsembleChaineTest {
 
         String tab4[]={"a,b,c","j,k,o","p,o,m"};
         e1.ajouter(tab4);
-        assertTrue("si la liste contiient plusieurs elements",e1.liste.contains("e,h,y"));
+        assertTrue("si la liste contient plusieurs elements",e1.liste.contains("e,h,y"));
+
+        String tab5[]={""};
+        e1.ajouter(tab5);
+        assertTrue("si la liste est vide",e1.liste.contains("a"));
 
 
     }
 
-    public boolean EnsembleChaine testUnion(){
+    public boolean testUnion(){
         EnsembleChaine e2 = new EnsembleChaine();
         String tab1[] = {"a,z,e"};
         e2.ajouter(tab1);
