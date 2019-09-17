@@ -43,22 +43,20 @@ public class EnsembleChaineTest {
     @Test
     public void testUnion(){
         EnsembleChaine e2 = new EnsembleChaine();
-        String tab1[] = {"a,z,e"};
-        String tab2[] = {"i,k,n"};
-
+        String tab1[] = {"a,z,e","a,z,i"};
         e2.ajouter(tab1);
-        assertTrue("si la liste possède les elements suivants",e2.liste.contains(("a,z,f")));
+        assertTrue("si la liste possède les elements suivants",e2.liste.contains(("a,z")));
     }
 
     @Test
     public void testIntersection(){
         EnsembleChaine e3 = new EnsembleChaine();
-        String tab2[] = {"a,t,y"};
+        String tab2[] = {"a,b,c","c,d,e"};
         e3.ajouter(tab2);
-        assertTrue("vérifer l'intersection", e3.liste.contains("z,f,g"));
+        assertTrue("vérifer l'intersection", e3.liste.contains("c"));
 
-        String tab3[] = {"a,t,i"};
-        e3.ajouter(tab2);
+        String tab3[] = {"a,t,i","a,t,m"};
+        e3.ajouter(tab3);
         assertTrue("il n'y a pas d'intersection", e3.liste.contains("o,p,s"));
 
         String tab4[] = {"a,q,w","z,s,x"};
