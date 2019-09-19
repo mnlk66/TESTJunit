@@ -162,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.EnsembleChaineTest">
+  <component name="RunManager" selected="JUnit.EnsembleChaineTest.testEquals">
     <configuration name="CalculatriceIncrementaleTest.testSoustraire (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TESTJunit" />
       <extension name="coverage">
@@ -204,12 +204,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EnsembleChaineTest.testEquals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TESTJunit" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Test" />
+      <option name="MAIN_CLASS_NAME" value="Test.EnsembleChaineTest" />
+      <option name="METHOD_NAME" value="testEquals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="JUnit.CalculatriceIncrementaleTest.testSoustraire (1)" />
       <item itemvalue="JUnit.EnsembleChaineTest" />
+      <item itemvalue="JUnit.EnsembleChaineTest.testEquals" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EnsembleChaineTest.testEquals" />
         <item itemvalue="JUnit.EnsembleChaineTest" />
         <item itemvalue="JUnit.CalculatriceIncrementaleTest.testSoustraire (1)" />
       </list>

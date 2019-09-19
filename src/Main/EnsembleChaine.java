@@ -31,7 +31,7 @@ public class EnsembleChaine {
 
         boolean resultat = true;
         int n=0;
-        while (resultat) {
+        while (resultat && n < e.liste.size()) {
 
 
                 if (!this.liste.contains(e.liste.get(n)))
