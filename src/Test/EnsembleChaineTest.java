@@ -120,6 +120,18 @@ public class EnsembleChaineTest {
         e5.liste.clear();
         e6.liste.clear();
 
+        //Test3
+        EnsembleChaine c1 = new EnsembleChaine();
+        EnsembleChaine c2 = new EnsembleChaine();
+        String tas[]={};
+        String tas2[]=null;
+
+        EnsembleChaine c3 = new EnsembleChaine();
+        String tas3[] = {};
+
+        assertTrue("vide et null",c1.union(c2).equals(c3));
+
+
     }
 
     @Test

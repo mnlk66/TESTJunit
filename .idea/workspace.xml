@@ -3,9 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="394ed463-5abb-4314-b78f-ec23d760b61c" name="Default Changelist" comment="Default Changelist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/out/production/TESTJunit/Main/EnsembleChaine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TESTJunit/Main/EnsembleChaine.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/TESTJunit/Test/EnsembleChaineTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TESTJunit/Test/EnsembleChaineTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test/EnsembleChaineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/EnsembleChaineTest.java" afterDir="false" />
+=======
+>>>>>>> Stashed changes
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +44,41 @@
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="EnsembleChaineTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+=======
+      <file leaf-file-name="EnsembleChaineTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaineTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="235">
+              <caret line="195" lean-forward="true" selection-start-line="195" selection-end-line="195" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnsembleChaineTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestDavid/EnsembleChaineTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="EnsembleChaineTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TestNicolas/EnsembleChaineTest.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="EnsembleChaine.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculatriceIncrementale.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main/CalculatriceIncrementale.java">
+>>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="439">
               <caret line="197" column="14" selection-start-line="197" selection-start-column="14" selection-end-line="197" selection-end-column="14" />
@@ -53,8 +89,13 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="731">
               <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+=======
+            <state relative-caret-position="1190">
+              <caret line="70" column="65" selection-start-line="70" selection-start-column="65" selection-end-line="70" selection-end-column="65" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -76,6 +117,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/Test/EnsembleChaineTest.java" />
+<<<<<<< Updated upstream
+=======
+        <option value="$PROJECT_DIR$/src/OtherTest/EnsembleChaineTest.java" />
+        <option value="$PROJECT_DIR$/src/TestKeany/EnsembleChaineTest.java" />
+        <option value="$PROJECT_DIR$/src/TestDavid/EnsembleChaineTest.java" />
+        <option value="$PROJECT_DIR$/src/TestNicolas/EnsembleChaineTest.java" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -116,6 +164,27 @@
               <item name="TESTJunit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Test" type="462c0819:PsiDirectoryNode" />
+<<<<<<< Updated upstream
+=======
+            </path>
+            <path>
+              <item name="TESTJunit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TESTJunit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestDavid" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TESTJunit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TESTJunit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestKeany" type="462c0819:PsiDirectoryNode" />
+>>>>>>> Stashed changes
+            </path>
+            <path>
+              <item name="TESTJunit" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TESTJunit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TestNicolas" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -148,6 +217,14 @@
       <recent name="Test" />
       <recent name="" />
     </key>
+<<<<<<< Updated upstream
+=======
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TestNicolas" />
+      <recent name="TestDavid" />
+      <recent name="OtherTest" />
+    </key>
+>>>>>>> Stashed changes
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="Main.CalculatriceIncrementale" />
       <recent name="groovy.util.GroovyTestCase" />
@@ -484,7 +561,32 @@
       <option name="project" value="LOCAL" />
       <updated>1568902815138</updated>
     </task>
+<<<<<<< Updated upstream
     <option name="localTasksCounter" value="10" />
+=======
+    <task id="LOCAL-00010" summary="Default Changelist">
+      <created>1568907126867</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568907126867</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Default Changelist">
+      <created>1568907557990</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1568907557990</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Default Changelist">
+      <created>1568907661495</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1568907661495</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+>>>>>>> Stashed changes
     <servers />
   </component>
   <component name="TestHistory">
@@ -604,6 +706,131 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
+=======
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="65" lean-forward="true" selection-start-line="42" selection-start-column="65" selection-end-line="42" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14">
+          <caret line="57" column="12" selection-start-line="57" selection-start-column="12" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="34" selection-start-line="39" selection-start-column="34" selection-end-line="39" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/CalculatriceIncrementale.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="60" column="45" lean-forward="true" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="179" lean-forward="true" selection-start-line="179" selection-end-line="179" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+>>>>>>> Stashed changes
     <entry file="file://$PROJECT_DIR$/src/Main/EnsembleChaine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="646">
@@ -795,8 +1022,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="731">
           <caret line="43" column="65" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+=======
+        <state relative-caret-position="1190">
+          <caret line="70" column="65" selection-start-line="70" selection-start-column="65" selection-end-line="70" selection-end-column="65" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -813,6 +1045,12 @@
           <caret line="197" column="14" selection-start-line="197" selection-start-column="14" selection-end-line="197" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestDavid/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestNicolas/EnsembleChaineTest.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
