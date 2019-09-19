@@ -13,29 +13,31 @@ public class EnsembleChaine {
     //Ajoute chaque chaine de tab, si elle n’existe pas déjà, à l’ensemble
     public void ajouter(String[] tab) {
 
-        for (int i = 0; i < tab.length; i++) {
+        if (tab !=null) {
 
-            if (!this.liste.contains(tab[i])) {
+            for (int i = 0; i < tab.length; i++) {
 
-                this.liste.add(tab[i]);
+                if (!this.liste.contains(tab[i])) {
+
+                    this.liste.add(tab[i]);
+                }
             }
+
         }
-
-
     }
 
     //Test si l’ensemble e est équivalent à l’ensemble courant
     public boolean equals(EnsembleChaine e) {
 
-        boolean resultat = false;
+        boolean resultat = true;
         int n=0;
-        while (!resultat) {
+        while (resultat) {
 
 
-                if (this.liste.contains(e.liste.get(n)))
-                    resultat = true;
+                if (!this.liste.contains(e.liste.get(n)))
+                    resultat = false;
 
-                else resultat = false;
+                else resultat = true;
 
 
                 n++;
