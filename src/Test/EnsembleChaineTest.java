@@ -71,6 +71,9 @@ public class EnsembleChaineTest {
         assertTrue("un seul element commun",ec1.equals(ec2));
         ec1.liste.clear();
         ec2.liste.clear();
+
+
+        //Test3
     }
 
 
@@ -175,7 +178,26 @@ public class EnsembleChaineTest {
 
         assertTrue("pas d'union détecter",ec.union(ec2).equals(ec3));
 
+    }
 
+
+    @Test
+    public void testUnionDisjointe(){
+        EnsembleChaine e1 = new EnsembleChaine();
+        EnsembleChaine e2 = new EnsembleChaine();
+        String tableau[]={"pain","jambon","fromage"};
+        String tableau2[]={"pain","beurre","hareng-saur"};
+        e1.ajouter(tableau);
+        e2.ajouter(tableau2);
+
+        EnsembleChaine e3 = new EnsembleChaine();
+        String tableau3[]={"jambon","fromage","beurre","hareng-saur"};
+        e3.ajouter(tableau3);
+
+        assertTrue("ce qu'il n'y a pas en commum",e1.unionDisjointe(e2).equals(e3));
+        e1.liste.clear();
+        e2.liste.clear();
+        e3.liste.clear();
 
     }
 
