@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="394ed463-5abb-4314-b78f-ec23d760b61c" name="Default Changelist" comment="Default Changelist">
-      <change afterPath="$PROJECT_DIR$/src/OtherTest/EnsembleChaineTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EnsembleChaineFRIMAT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OtherTest/EnsembleChaine.java" afterDir="false" />
-    </list>
+    <list default="true" id="394ed463-5abb-4314-b78f-ec23d760b61c" name="Default Changelist" comment="Default Changelist" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -53,16 +49,16 @@
         </entry>
       </file>
       <file leaf-file-name="EnsembleChaineTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OtherTest/EnsembleChaineTest.java">
+        <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="235">
+              <caret line="195" lean-forward="true" selection-start-line="195" selection-end-line="195" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="EnsembleChaine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OtherTest/EnsembleChaine.java">
+        <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaine.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
@@ -82,8 +78,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="65" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
+            <state relative-caret-position="1258">
+              <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -115,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/OtherTest/EnsembleChaineK.java" />
         <option value="$PROJECT_DIR$/src/Test/EnsembleChaineTest.java" />
         <option value="$PROJECT_DIR$/src/OtherTest/EnsembleChaineTest.java" />
+        <option value="$PROJECT_DIR$/src/TestKeany/EnsembleChaineTest.java" />
       </list>
     </option>
   </component>
@@ -154,13 +151,7 @@
               <item name="TESTJunit" type="b2602c69:ProjectViewProjectNode" />
               <item name="TESTJunit" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="OtherTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TESTJunit" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TESTJunit" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="TestKeany" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -534,22 +525,17 @@
       <option name="project" value="LOCAL" />
       <updated>1568902815138</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Default Changelist">
+      <created>1568907126867</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568907126867</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EnsembleChaineTest_testEquals - 2019.09.17 at 15h 31m 45s.xml">
-      <configuration name="EnsembleChaineTest.testEquals" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EnsembleChaineTest_testIntersection - 2019.09.17 at 15h 32m 06s.xml">
-      <configuration name="EnsembleChaineTest.testIntersection" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EnsembleChaineTest_testEquals - 2019.09.19 at 10h 16m 41s.xml">
-      <configuration name="EnsembleChaineTest.testEquals" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EnsembleChaineTest_testEquals - 2019.09.19 at 10h 19m 31s.xml">
-      <configuration name="EnsembleChaineTest.testEquals" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="EnsembleChaineTest_testEquals - 2019.09.19 at 10h 21m 31s.xml">
       <configuration name="EnsembleChaineTest.testEquals" configurationId="JUnit" />
     </history-entry>
@@ -567,6 +553,18 @@
     </history-entry>
     <history-entry file="EnsembleChaineTest_testAjouter - 2019.09.19 at 11h 25m 33s.xml">
       <configuration name="EnsembleChaineTest.testAjouter" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EnsembleChaineTest_testAjouter_(1) - 2019.09.19 at 11h 31m 03s.xml">
+      <configuration name="EnsembleChaineTest.testAjouter (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EnsembleChaineTest_testEquals_(1) - 2019.09.19 at 11h 31m 08s.xml">
+      <configuration name="EnsembleChaineTest.testEquals (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EnsembleChaineTest_testUnion - 2019.09.19 at 11h 31m 12s.xml">
+      <configuration name="EnsembleChaineTest.testUnion" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EnsembleChaineTest_testIntersection - 2019.09.19 at 11h 31m 17s.xml">
+      <configuration name="EnsembleChaineTest.testIntersection" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -795,7 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OtherTest/EnsembleChaine.java">
+    <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="60" column="45" lean-forward="true" selection-start-line="60" selection-start-column="45" selection-end-line="60" selection-end-column="45" />
@@ -1003,8 +1001,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="65" selection-start-line="49" selection-start-column="65" selection-end-line="49" selection-end-column="65" />
+        <state relative-caret-position="1258">
+          <caret line="74" column="65" selection-start-line="74" selection-start-column="65" selection-end-line="74" selection-end-column="65" />
         </state>
       </provider>
     </entry>
@@ -1025,17 +1023,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OtherTest/EnsembleChaine.java">
+    <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaine.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="74" column="39" lean-forward="true" selection-start-line="74" selection-start-column="39" selection-end-line="74" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OtherTest/EnsembleChaineTest.java">
+    <entry file="file://$PROJECT_DIR$/src/TestKeany/EnsembleChaineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        <state relative-caret-position="235">
+          <caret line="195" lean-forward="true" selection-start-line="195" selection-end-line="195" />
         </state>
       </provider>
     </entry>
